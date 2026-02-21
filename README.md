@@ -9,9 +9,13 @@ This type of analysis is core to SaaS companies, startups, and subscription-base
 
 Your goal is to help business teams answer questions such as:
 
+
 Why are customers leaving the platform?
+
 Which customer segments are most likely to churn?
+
 How long do customers typically stay active?
+
 What actions can improve customer retention?
 
 
