@@ -24,10 +24,15 @@ As part of this task, you will:
 
 Clean and organize customer or subscription data
 Analyze:
+
 Churn rates and retention trends
-Customer cohorts (by signup month, plan, or region)
+
+Customer cohorts (by signup month, plan, or region
+
 Customer lifetime patterns
+
 Identify key retention drivers and churn reasons
+
 Present insights as if you were advising a real SaaS or subscription business
 
 
